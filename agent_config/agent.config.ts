@@ -5,7 +5,7 @@ export const agentConfig = {
   learningEnabled: false,
 
   userInterface: {
-    interfaceType: 'Web',
+    interfaceType: ['Web', 'Desktop'],
     logLevel: 'error',
   },
 
