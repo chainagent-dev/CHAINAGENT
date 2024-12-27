@@ -22,7 +22,7 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/chainagent.git
+git clone https://github.com/chainagent-dev/CHAINAGENT
 cd chainagent
 ```
 
