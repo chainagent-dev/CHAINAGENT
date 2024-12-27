@@ -137,4 +137,4 @@ CHAINAGENT is intended for informational and educational purposes only. Use at y
 
 ---
 
-Thank you for choosing CHAINAGENT as your Web3 assistant! If you encounter any issues or have feedback, feel free to open an issue or contact us at [support@example.com](mailto:support@example.com).
+Thank you for choosing CHAINAGENT as your Web3 assistant! If you encounter any issues or have feedback, feel free to open an issue or contact us at [support@example.com](mailto:chainagentdev@gmail.com).
